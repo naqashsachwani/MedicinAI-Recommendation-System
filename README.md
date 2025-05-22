@@ -1,1 +1,1 @@
-# MedicinAI-Recommendation-System
+# Medicine AI-Recommendation-System
